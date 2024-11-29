@@ -1,0 +1,9 @@
+{
+  "headers": {
+    "Authorization": "Bearer my-secret-token",
+    "X-Idempotency-Key": "123456"
+  },
+  "httpMethod": "POST",
+  "path": "/test",
+  "body": ""
+}
