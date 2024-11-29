@@ -1,6 +1,6 @@
-# booky-middleware
+# Cronus
 
-This is a sample template for booky-middleware - Below is a brief explanation of what we have generated for you:
+This is a sample template for cronus - Below is a brief explanation of what we have generated for you:
 
 ```bash
 .
